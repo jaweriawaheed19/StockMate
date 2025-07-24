@@ -1,0 +1,11 @@
+Category,Name,Quantity,Price,Location,Batch,Expiry,Brand,Warranty
+Perishable,Milk,10,10,P1,B101,2025-08-01,,
+Perishable,Egg,5,4,P2,B102,2025-07-20,,
+Perishable,Cheese,7,6,P3,B103,2025-09-10,,
+Perishable,Butter,6,5,P4,B104,2025-08-15,,
+Perishable,Yogurt,12,5,P5,B105,2025-07-25,,
+Electronic,Monitor,5,350,E1,,,Samsung,2
+Electronic,Mouse,10,40,E2,,,Logitech,1
+Electronic,Keyboard,8,45,E3,,,HP,2
+Electronic,Laptop,3,700,E4,,,Dell,3
+Electronic,Speaker,6,60,E5,,,JBL,1

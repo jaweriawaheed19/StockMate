@@ -62,7 +62,7 @@ StockMate is a console-based inventory and order management system developed in 
 *Jaweria Waheed Satti*
 
 - Student – BS Computer Science, Bahria University  
-- [LinkedIn Profile](https://www.linkedin.com/in/jaweriasatti)  
+- [LinkedIn](https://www.linkedin.com/in/jaweriasatti)  
 - [Email](mailto:jaweriasatti19@gmail.com)
 
 ##  License
